@@ -2,7 +2,6 @@ import { Request, Response } from "express";
 import bcrypt from "bcrypt";
 import { registerValidator, loginValidator } from "../utils/validators";
 import ResponseStatus from "../utils/response";
-import pool from "../db-config/pool";
 import generateToken from "../utils/generateToken";
 import sendEmail from "../utils/email";
 import userRegister from "../model/auth";
