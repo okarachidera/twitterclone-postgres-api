@@ -8,7 +8,7 @@ A twiiter clone that include all functionalities of twiiter like create tweet, f
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 ## Technologies
 - [Typescript](https://www.typescriptlang.org) : Base programming language for development
-- [Postgres](https://www.mongodb.com/) : Application relational databases for development, staging and production environments
+- [Postgres](https://www.postgresql.org/) : Application relational databases for development, staging and production environments
 - [Node Js](https://nodejs.org/en) : Development framework used for the application
 - [Express Js](https://expressjs.com/) : Provides API development tools for easy API development
 - [Github Actions](https://docs.github.com/en/free-pro-team@latest/actions) : Continuous Integration and Deployment
