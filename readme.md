@@ -1,4 +1,4 @@
-# Twitterclone API
+# Twitterclone API WITH POSTGRES
 A twiiter clone that include all functionalities of twiiter like create tweet, follow users etc.
 ### Key features include
 - [x] Authentication and authorization
